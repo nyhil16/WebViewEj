@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebViewEj</string>
+    <string name="url">Pon una URL:</string>
+    <string name="ir">IR</string>
+    <string name="cerrar">CERRAR</string>
+</resources>
